@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/HelloJava" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/设计模式-鸭子" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/设计模式_气象站" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/设计模式_鸭子" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/案例-观察者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/设计模式-策略" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/设计模式-装饰者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/单件模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/命令模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/工厂模式-披萨店案例" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/装饰者模式-stream" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
